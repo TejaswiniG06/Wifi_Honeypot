@@ -1,0 +1,11 @@
+SSID,BSSID,Encryption,Risk
+Airport_FreeWiFi,00:1A:2B:3C:4D:5E,Open,1
+Starbucks_WiFi,00:2B:3C:4D:5E:6F,WPA2,0
+Hotel_Guest,11:22:33:44:55:66,WEP,1
+Library_WiFi,12:34:56:78:90:AB,Open,1
+Conference_Network,22:33:44:55:66:77,WPA2,0
+Public_Hotspot,33:44:55:66:77:88,Open,1
+Company_Guest,44:55:66:77:88:99,WEP,1
+Secure_Network,55:66:77:88:99:AA,WPA2,0
+Safe_HomeWiFi,99:AA:BB:CC:DD:EE,WPA2,0
+Office_Network,AA:BB:CC:DD:EE:FF,WPA2,0
